@@ -1,0 +1,9 @@
+__pychache__
+
+# Ignore Python byte code files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore these directories
+/constants.py
